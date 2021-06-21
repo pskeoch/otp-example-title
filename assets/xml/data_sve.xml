@@ -1,0 +1,926 @@
+﻿<?xml version="1.0" ?>
+<BrandInterface language="Svenska">
+<title>
+	<row1><![CDATA[Volvo]]></row1>
+	<row2><![CDATA[1800, 1800S, 1800E & ES]]></row2>
+	<row3><![CDATA[1961 to 1973]]></row3>
+	<row4><![CDATA[Original Technical Publications]]></row4>
+</title>
+<main_nav>
+	<nav><![CDATA[Inledning
+]]></nav>
+	<nav><![CDATA[Volvo Tekniska Publikationer
+]]></nav>
+	<nav><![CDATA[Volvo Personvagnar]]></nav>
+	<nav><![CDATA[Volvos Arv
+]]></nav>
+	<nav><![CDATA[Volvoklubbar ]]></nav>
+	<nav><![CDATA[Bildgalleri ]]></nav>
+	<nav><![CDATA[Skrivbordsbakgrund]]></nav>
+	<nav><![CDATA[Volvos videoarkiv]]></nav>
+	<nav><![CDATA[Andra Volvorelaterade länkar]]></nav>
+	<nav><![CDATA[Original Technical Publications
+]]></nav>
+	<nav><![CDATA[Avsluta]]></nav>
+</main_nav>
+<gallery>
+	<title><![CDATA[Galleri]]></title>
+	<note><![CDATA[Välj en bild för att ändra bakgrundsbild.]]></note>
+</gallery>
+<back_button>
+	<label><![CDATA[Tillbaka]]></label>
+</back_button>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Inledning
+]]></name>
+		<copy><![CDATA[Välkommen till Original Technical Publications för Volvo Personvagnar. Materialet är på skivan är reproducerat från vårt omfattande historiska arkiv i Göteborg. Vi är glada att kunna ge dig tillgång till de publikationer som du behöver för att kunna köra och underhålla din Volvo, till exempel reservdelskataloger och servicehandböcker.
+
+Här finns dessutom information om och länkar till Volvo Personbilar, Volvos Arv, Volvo Museum och Original Technical Publications. Lär dig mer om Volvos historia, Volvos modeller och få de senaste nyheterna och informationen från Volvos arv. Härifrån kan du också nå Genuine Classic Parts samt länkar till lokala Volvoklubbar.  
+
+När du ändå är här kan du ta titta närmare på de senaste bildgallerierna, videoklippen och mediearkivet - eller kanske ladda ner en skrivbordsbakgrund för att ge din dator en egen stil.
+Du kan när som helst använda tangentkombinationen Alt + Tab för att återgå till huvudmenyn.
+]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[VIKTIG INFORMATION OM ANVÄNDNING AV DEN HÄR PRODUKTEN]]></name>
+		<copy><![CDATA[För att skydda Volvoarkivets rättigheter visas allt material i Original Technical Publications i det skyddade formatet PDC. För att öppna filerna måste du installera mjukvaran PDC Viewer på din dator och aktivera din licens. Du får inte tillgång till dokumenten förrän du utfört de här åtgärderna:
+1) När du installerat läsaren klickar du på länken nedan för att aktivera produkten. När du klickar på länken visas en aktiveringsapplikation. Internetanslutning krävs för att utföra den här åtgärden.
+
+2) Ange ditt namn och en giltig e-postadress samt din licenskod (finns på produktens förpackning) och klicka sedan på knappen för att aktivera.
+    Strax därefter får du en bekräftelse och en länk för att spara din licensfil. Du får också ett e-postmeddelande till den angivna adressen där licensfilen är bifogad. Den kan du använda ifall du skulle ha problem med att spara licensfilen med applikationen.
+
+3) Spara licensfilen i en lämplig mapp på din hårddisk och klicka på knappen för att registrera din licens så slutförs registreringen. Du får en bekräftelse på registreringen och kan sedan visa dokument när du så önskar.
+]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/otpactivate/runactivate.php?pub=tp51949">
+		<name><![CDATA[Aktivera nu]]></name>
+	</link>
+	<link kind="webpage" location="http://www.otpubs.com/otpactivate/instruct-withdisc.htm">
+		<name><![CDATA[Installationshjälp och felsökning]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvo Tekniska Publikationer
+]]></name>
+		<copy><![CDATA[De tekniska publikationer som finns sparade i det här avsnittet kommer från det officiella Volvoarkivet i Göteborg. Det finns ingen bättre plats för att hitta den bästa informationen om din Volvo.
+
+Volvos publikationer skapades för att hjälpa Volvos verkstäder att ge bästa möjliga service till Volvoägare. Publikationerna ger ägare av Volvobilar all information som behövs för att hålla  fordonen i bästa skick.
+]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Reservdels Publikationer]]></name>
+		<copy><![CDATA[Reservdelspublikationer - De reservdelspublikationerna som visas här har sammanställts och reproducerats från originalutgåvorna i Volvoarkivet i Göteborg. Huvuddelen av information är på svenska och engelska, fast reservdelsinformation på andra språk har också tagits med där sådan finns. Där detta inte varit möjligt har vi försökt tillhandahålla engelska versioner av dokumenten med översättningar länkade till de aktuella sidorna. I nyare böcker finns numrerade illustrationer - som visar läsaren till rätt bild och artikelnummer.]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Reservdelskatalog - 1800 och 1800S (B18) - 1961 till 1968  ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212121-sve/212121-sve-01.pdc">
+		<name><![CDATA[Förord]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212121-sve/212121-sve-02.pdc">
+		<name><![CDATA[Motor B18]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212121-sve/212121-sve-03.pdc">
+		<name><![CDATA[Kylsystem]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212121-sve/212121-sve-04.pdc">
+		<name><![CDATA[Bränsle- och Avgassystem]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212121-sve/212121-sve-05.pdc">
+		<name><![CDATA[Motorreglage]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212121-sve/212121-sve-06.pdc">
+		<name><![CDATA[Elektriskt System, Instrument]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212121-sve/212121-sve-07.pdc">
+		<name><![CDATA[Kraftöverföring, Bakaxel]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212121-sve/212121-sve-08.pdc">
+		<name><![CDATA[Bromsar]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212121-sve/212121-sve-09.pdc">
+		<name><![CDATA[Framaxel med Styrinrättning, Hjul]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212121-sve/212121-sve-10.pdc">
+		<name><![CDATA[Karosseri]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212121-sve/212121-sve-11.pdc">
+		<name><![CDATA[Övrig Utrustning]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212121-sve/212121-sve-12.pdc">
+		<name><![CDATA[Bosch-utrustning]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212121-sve/212121-sve-13.pdc">
+		<name><![CDATA[Satsförpackningar]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212121-sve/212121-sve-14.pdc">
+		<name><![CDATA[Alfabetiskt Register]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212121-sve/212121-sve-15.pdc">
+		<name><![CDATA[Nummerregister]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Reservdelskatalog - 1800S, 1800E och 1800ES (B20) - 1968 till 1971 ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/1800partsii-sve/1800partsii-sve-01.pdc">
+		<name><![CDATA[Förord]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/1800partsii-sve/1800partsii-sve-02.pdc">
+		<name><![CDATA[Motor B20]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/1800partsii-sve/1800partsii-sve-03.pdc">
+		<name><![CDATA[Kylsystem]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/1800partsii-sve/1800partsii-sve-04.pdc">
+		<name><![CDATA[Bränsle- och Avgassystem]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/1800partsii-sve/1800partsii-sve-05.pdc">
+		<name><![CDATA[Motorreglage]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/1800partsii-sve/1800partsii-sve-06.pdc">
+		<name><![CDATA[Elektriskt System, Instrument]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/1800partsii-sve/1800partsii-sve-07.pdc">
+		<name><![CDATA[Kraftöverföring, Bakaxel]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/1800partsii-sve/1800partsii-sve-08.pdc">
+		<name><![CDATA[Bromsar]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/1800partsii-sve/1800partsii-sve-09.pdc">
+		<name><![CDATA[Framaxel med Styrinrättning, Hjul]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/1800partsii-sve/1800partsii-sve-10.pdc">
+		<name><![CDATA[Ram, Fjädring]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/1800partsii-sve/1800partsii-sve-11.pdc">
+		<name><![CDATA[Karosseri]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/1800partsii-sve/1800partsii-sve-12.pdc">
+		<name><![CDATA[Övrig Utrustning]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/1800partsii-sve/1800partsii-sve-13.pdc">
+		<name><![CDATA[Satsförpackningar]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/1800partsii-sve/1800partsii-sve-14.pdc">
+		<name><![CDATA[Nummerregister]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Reservdelskatalog - 1800S, 1800E och 1800ES (B20) - 1968 till 1973]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212123-sve/212123-sve-01.pdc">
+		<name><![CDATA[Förord]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212123-sve/212123-sve-02.pdc">
+		<name><![CDATA[Motor B20]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212123-sve/212123-sve-03.pdc">
+		<name><![CDATA[Kylsystem]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212123-sve/212123-sve-04.pdc">
+		<name><![CDATA[Bränsle- och Avgassystem]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212123-sve/212123-sve-05.pdc">
+		<name><![CDATA[Motorreglage]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212123-sve/212123-sve-06.pdc">
+		<name><![CDATA[Elektriskt System, Instrument]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212123-sve/212123-sve-07.pdc">
+		<name><![CDATA[Kraftöverföring, Bakaxel]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212123-sve/212123-sve-08.pdc">
+		<name><![CDATA[Bromsar]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212123-sve/212123-sve-09.pdc">
+		<name><![CDATA[Framaxel med Styrinrättning, Hjul]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212123-sve/212123-sve-10.pdc">
+		<name><![CDATA[Ram, Fjädring]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212123-sve/212123-sve-11.pdc">
+		<name><![CDATA[Karosserie]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212123-sve/212123-sve-12.pdc">
+		<name><![CDATA[Övrig Utrustning]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212123-sve/212123-sve-13.pdc">
+		<name><![CDATA[Satsförpackningar]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/parts/212123-sve/212123-sve-14.pdc">
+		<name><![CDATA[Nummerregister]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Verkstads Publikationer]]></name>
+		<copy><![CDATA[Servicepublikationer - De servicepublikationerna som visas här har sammanställts och reproducerats från originalutgåvorna i Volvoarkivet i Göteborg. I varje publikation finns omfattande, flerspråkig serviceinformation som används av Volvos verkstäder för modeller som tillverkades eller fortfarande var i bruk då publikationen togs fram.]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Komplett Verkstads Handbok - 1800 - (SS 2224 2 - 12/1961)]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/complete/SS-2224-2/SS-2224-2-01.pdc">
+		<name><![CDATA[Förord]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/complete/SS-2224-2/SS-2224-2-02.pdc">
+		<name><![CDATA[Motor]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/complete/SS-2224-2/SS-2224-2-03.pdc">
+		<name><![CDATA[Koppling]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/complete/SS-2224-2/SS-2224-2-04.pdc">
+		<name><![CDATA[Växellåda]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/complete/SS-2224-2/SS-2224-2-05.pdc">
+		<name><![CDATA[Kardanaxel]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/complete/SS-2224-2/SS-2224-2-06.pdc">
+		<name><![CDATA[Bakaxel]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/complete/SS-2224-2/SS-2224-2-07.pdc">
+		<name><![CDATA[Framaxel]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/complete/SS-2224-2/SS-2224-2-08.pdc">
+		<name><![CDATA[Bromsar]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/complete/SS-2224-2/SS-2224-2-09.pdc">
+		<name><![CDATA[Hjul]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/complete/SS-2224-2/SS-2224-2-10.pdc">
+		<name><![CDATA[Fjädrar]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/complete/SS-2224-2/SS-2224-2-11.pdc">
+		<name><![CDATA[Elektriskt]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/complete/SS-2224-2/SS-2224-2-12.pdc">
+		<name><![CDATA[Karosseri]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/complete/SS-2224-2/SS-2224-2-13.pdc">
+		<name><![CDATA[Smörjning]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Preliminär Verkstads Handbok - 1800E - (TP 10578 1 - 9/1969)]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/complete/TP-10578-1.pdc">
+		<name><![CDATA[Preliminär Verkstads Handbok - 1800E]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[1972-Nyheter Verkstads Handbok - 1800E/ES - (TP 10743 1 - 10/1971)]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/complete/TP-10743-1.pdc">
+		<name><![CDATA[1972-Nyheter Verkstads Handbok - 1800E/ES ]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Individuell Verkstads Handböcker - 1800, 1800S, 1800E, 1800ES]]></name>
+		<copy><![CDATA[]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Allmänt ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/0/TP-10137-2.pdc">
+		<name><![CDATA[Specifikationer P 1800, 1800 S (TP-10137-2 - 11/1969)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/0/TP-10854-1.pdc">
+		<name><![CDATA[Specifikationer P 1800E/ES (TP-10854-1 - 6/1973)]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Smörjning och service ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/1/SS-2228-1.pdc">
+		<name><![CDATA[Smörjning P 1800 (SS-2228 - 1/1961)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/1/TP-10107-1.pdc">
+		<name><![CDATA[Smörjning P 1800 (TP-10107-1 - 10/1964)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/1/TP-10415-2.pdc">
+		<name><![CDATA[Smörjning 120, 1800 (TP-10415-2 - 3/1971)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/1/TP-10760-1.pdc">
+		<name><![CDATA[Smörjning 140, 164, 1800 (TP-10760-1 - 4/1972)]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Motor]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/2/SS-2225-1.pdc">
+		<name><![CDATA[Motor (B 18 B) (SS-2225-1 - 1/1961)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/2/SS-2235-2.pdc">
+		<name><![CDATA[Motor B 18 B, B 18 D PV (SS-2235-2 - 3/1964)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/2/TP-10114-2.pdc">
+		<name><![CDATA[Motor B 18 B/D P (TP-10114-2 - 10/1973)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/2/TP-10515-1.pdc">
+		<name><![CDATA[Motor B 20 A, B 20 B P (TP-10515-1 - 1/1969)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/2/TP-10903-1.pdc">
+		<name><![CDATA[Motor B 20, B 30 P (TP-10903-1 - 3/1974)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/2/TP-10697-1.pdc">
+		<name><![CDATA[Insprutnings System Motor B 20 EP (TP-10697-1 - 1/1971)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/2/TP-10811-1.pdc">
+		<name><![CDATA[Felsokningsschema Insprutningmotorer (TP-10811-1 - 3/1973)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/2/TP-10892-1.pdc">
+		<name><![CDATA[Insprutnings System CI B 20 E, F (TP-10892-1 - 12/1973)]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Elsystem]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/3/TP-10333-2.pdc">
+		<name><![CDATA[Elektriskt System 1800 (TP-10333-2 - 6/1976)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/3/TP-10262-1.pdc">
+		<name><![CDATA[Instrument Värmesystem P 1800 (TP-10262-1 - 4/1966)]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Power Kraftöverföring ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-10054-3A.pdc">
+		<name><![CDATA[Koppling 120, 140, 1800 (TP-10054-3A - 9/1969)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-10132-1.pdc">
+		<name><![CDATA[Växellåda (M 40, M 41) P 1800 (TP-10132-1 - 4/1965)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-10751-1.pdc">
+		<name><![CDATA[Växellåda M 40 140, 1800 (TP-10751-1 - 1/1972)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-10800-1.pdc">
+		<name><![CDATA[Växellåda M 400 164, 1800 E (TP-10800-1 - 3/1973)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/SS-2094-2.pdc">
+		<name><![CDATA[Växellåda (M 30-M 40) P (SS-2094-2 - 2/1963)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-10064-2.pdc">
+		<name><![CDATA[Växellåda (M 30-M 40) P 120, P 210, PV 544 (TP-10064-2 - 7/1966)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-10525-2.pdc">
+		<name><![CDATA[Växellåda (M 30-M 40) 120, 140 (TP-10525-2 - 9/1970)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-10022-3.pdc">
+		<name><![CDATA[Automatisk Växellåda (BW-35) P 120, 140, 164 (TP-10022-3 - 1/1970)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-11470-1.pdc">
+		<name><![CDATA[Automatisk Växellåda BW 35 (TP-11470-1 - 8/1976)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-11463-2.pdc">
+		<name><![CDATA[Automatisk Växellåda BW 35 (TP-11463-2 - 2/1977)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-10124-2.pdc">
+		<name><![CDATA[Överväxel 120, 140, 1800 (TP-10124-2 - 1/1968)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/SS-2226-1.pdc">
+		<name><![CDATA[Överväxel P 1800 (SS-2226-1 - 1/1961)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-10486-1A.pdc">
+		<name><![CDATA[Överväxel Typ J (TP-10486-1A - 6/1974)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-12173-1.pdc">
+		<name><![CDATA[Överväxel Typ J (TP-12173-1 - 2/1978)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-10338-3.pdc">
+		<name><![CDATA[Bakaxel (Spicer) 120, 140, 164, 1800 (TP-10338-3 - 9/1972)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-10074-2.pdc">
+		<name><![CDATA[Bakaxel (Spicer mod. 27) P 120, 2-O. 4-Dörr. P 1800, PV 544 	(TP-10074-2 - 4/1966)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-10069-1.pdc">
+		<name><![CDATA[Kardanaxel P 120, P 1800 (TP-10069-1 - 6/1964)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/4/TP-10372-2.pdc">
+		<name><![CDATA[Kardanaxel 120, 140, 164, 1800 (TP-10372-2 - 8/1971)]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Bromsar ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/5/TP-10052-3.pdc">
+		<name><![CDATA[Bromsar (Skivbromsar) 120, P 1800, 1800 S (TP-10052-3 - 5/1971)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/5/SS-2227-1.pdc">
+		<name><![CDATA[Bromsar  P 1800, 1800 S (SS-2227-1 - 1/1961)]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Fjädring och styrning ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/6/TP-10093-2.pdc">
+		<name><![CDATA[Framaxel Med Styrinrättning 120, 1800 (TP-10093-2 - 1800 - 4/1971)]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Fjädrar, dämpning och hjul ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/7/TP-10098-2.pdc">
+		<name><![CDATA[Fjädrar Och Stötdämpare Hjul 120, 1800 (TP-10098-2 - 4/1969)]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Kaross och Inredning ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/8/TP-10267-2.pdc">
+		<name><![CDATA[Kaross 1800 (TP-10267-2 - 10/1971)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/8/TP-10772-1.pdc">
+		<name><![CDATA[Body Aligner 120, 140, 164, 1800 (TP-10772-1 - 9/1972)]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Verktyg]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/service/individual/tools/TP-40002-2.pdc">
+		<name><![CDATA[Specialverktyg PV 544, P 210, 120, 140, 164, 1800 (TP-40002-2 - 8/1968)]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Försäljnings Broschyrer ]]></name>
+		<copy><![CDATA[]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Försäljning Broschyrer (Svenska) ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-222-3.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo P1800 (RK-222-3 - Jan-61)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-811.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo P1800 (RK-811 - Oct-62)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-1490-3.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo 1800 S (RK-1490-3 - May-63)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-1006-2.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo P1800 S (RK-1006-2 - May-63)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-1132.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo 1800 S (RK-1132 - Jul-63)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-82-4.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo P1800 (RK-82-4 - 1963)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-1523-3.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo 1800 S (RK-1523-3 - May-65)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-2279-2.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo 1800 S (RK-2279-2 - Oct-66)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-2335-3.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo 1800 S (RK-2335-3 - Oct-66)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-1746-3.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo 1800 S (RK-1746-3 - Mar-66)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-1754-2.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo 1800 S (RK-1754-2 - Mar-66)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-2275-3.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo 1800 S (RK-2275-3 -Apr-67)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-2740.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo 1800 S (RK-2740 - Aug-67)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-2958-2.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo 1800 S (RK-2958-2 - Feb-68)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-3398-2.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo 1800 S (RK-3398-2 - Jan-69)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-3965-2.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo 1800 E (RK-3965-2 - Nov-69)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RK-4118-2.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo Amazon,  142, 144, 145, 1800E,  164(RK-4118-2 - Feb-70)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RSP-50087.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo 1800 E (RSP-50087 - Aug-70)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/sve/sales/sales-sve/RSP-PV-538-2-73.pdc">
+		<name><![CDATA[Försäljning Broschyrer - Volvo 1800 ES (RSP-PV-538-2-73 - Dec-72)]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvo Personvagnar]]></name>
+		<copy><![CDATA[Hitta den senaste informationen om aktuella Volvomodeller, hitta närmaste återförsäljare eller ta del av gemenskapen på Volvos webbsida. ]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvo Personvagnar]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/selinks.php?linkno=1">
+		<name><![CDATA[Volvo Personvagnar]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Gemenskapen]]></name>
+		<copy><![CDATA[Ta del av gemenskapen.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/selinks.php?linkno=2">
+		<name><![CDATA[Gemenskapen]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[DRIVe - Miljöprogram]]></name>
+		<copy><![CDATA[Dagens bilar måste möta strikta miljökrav. Följ utvecklingen på miljöområdet på webbplatsen för  DRIVe.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/selinks.php?linkno=3">
+		<name><![CDATA[DRIVe - Miljöprogram]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Tillbehör]]></name>
+		<copy><![CDATA[Utrusta din Volvo med tillbehör som ger den en personlig stil. Vi erbjuder ett stort sortiment av tillbehör, utrustning och tjänster som hjälper dig att få ut det mesta möjliga av din bil.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/selinks.php?linkno=4">
+		<name><![CDATA[Tillbehör]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvo Merchandise]]></name>
+		<copy><![CDATA[]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Global Collection]]></name>
+		<copy><![CDATA[Utforska sortimentet med stilrena livsstilsaccessoirer]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/selinks.php?linkno=5">
+		<name><![CDATA[Global Collection]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Sök Volvohandlare]]></name>
+		<copy><![CDATA[Hitta en Volvoåterförsäljare nära dig.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/selinks.php?linkno=7">
+		<name><![CDATA[Sök Volvohandlare]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Besök Volvo]]></name>
+		<copy><![CDATA[Välkommen till Volvo Personvagnars besökscentrum, beläget mitt i Torslandaverken i Göteborg.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/selinks.php?linkno=8">
+		<name><![CDATA[Besök Volvo]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Aktuella Volvomodeller]]></name>
+		<copy><![CDATA[Titta närmare på Volvos nuvarande sortiment.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/selinks.php?linkno=9">
+		<name><![CDATA[Aktuella Volvomodeller]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvo på Facebook]]></name>
+		<copy><![CDATA[Du kan följa Volvo på Facebook]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/selinks.php?linkno=10">
+		<name><![CDATA[Volvo på Facebook]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvo på Youtube ]]></name>
+		<copy><![CDATA[Se aktuella videoklipp, informationsmaterial, reklamfilmer och mycket mer på den officiella Youtube-webbsidan.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/selinks.php?linkno=11">
+		<name><![CDATA[Volvo på Youtube ]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvos Arv
+]]></name>
+		<copy><![CDATA[Varje gång en vägmätare slår runt skrivs historia för den aktuella Volvobilen - som alla har en historia värd att bevara. Sedan 1927 har Volvo skapat sin egen unika fordonshistoria och med webbplatsen Volvos Arv vill vi hjälpa entusiaster att fortsätta skriva historia långt in i framtiden.]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvos Arv]]></name>
+		<copy><![CDATA[Varje gång en ny kilometer läggs till på trippmätaren skrivs historia för den aktuella Volvobilen - som alla har en historia värd att bevara. Sedan 1927 har Volvo skapat sin egen unika fordonshistoria och med webbplatsen Volvos Arv vill vi hjälpa entusiaster att fortsätta skriva historia långt in i framtiden.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/selinks.php?linkno=12">
+		<name><![CDATA[Volvos Arv]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvo Museum]]></name>
+		<copy><![CDATA[Volvo Museum bjuder in dig att utforska Volvos utveckling och framgångar - från slutet av 1920-talet till nutiden - under ett tak i Göteborg. Lär dig om hur klassiska värden utvecklats och gjort Volvo till ett av världens starkaste och mest respekterade varumärken.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/selinks.php?linkno=13">
+		<name><![CDATA[Volvo Museum]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvomodeller]]></name>
+		<copy><![CDATA[Här finns foton och information om alla Volvomodeller från 1927 fram till dagens modellutbud. ]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/selinks.php?linkno=14">
+		<name><![CDATA[Volvomodeller]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Nyheter och information om Volvos Arv]]></name>
+		<copy><![CDATA[I avsnittet Nyheter och information på Volvos Arvs webbplats finns aktuell information om Volvo Personvagnars jubileum, nyheter och viktiga datum att lägga på minnet.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/selinks.php?linkno=15">
+		<name><![CDATA[Nyheter och information om Volvos Arv]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvoklubbar ]]></name>
+		<copy><![CDATA[Söker du efter din lokala Volvoklubb? Använd den här länken för att hitta Volvoklubbar och Volvoföreningar på webbsidan Volvos Arv.]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvoklubbar ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/selinks.php?linkno=16">
+		<name><![CDATA[Volvoklubbar ]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="E" >
+		<name><![CDATA[Bildgalleri ]]></name>
+		<copy><![CDATA[This field is ignored when using the photo gallery pane type.]]></copy><external_app file="assets/apps/slideShow.swf"></external_app>
+	</section>
+
+	<section contentPaneType="W" >
+		<name><![CDATA[Skrivbordsbakgrund]]></name>
+		<copy><![CDATA[Anpassa din PC med en skrivbordsbakgrund från Volvos Arv.
+
+Utskrifter av hög kvalitet kan du beställa från volvoprints.com.
+]]></copy>
+<wallpaper_list>
+		<wallpaper thumb="assets/pics/wallpapers/wp1_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp1_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp1_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp1_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp1_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+		<wallpaper thumb="assets/pics/wallpapers/wp2_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp2_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp2_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp2_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp2_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+		<wallpaper thumb="assets/pics/wallpapers/wp3_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp3_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp3_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp3_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp3_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+		<wallpaper thumb="assets/pics/wallpapers/wp4_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp4_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp4_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp4_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp4_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+		<wallpaper thumb="assets/pics/wallpapers/wp5_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp5_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp5_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp5_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp5_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+		<wallpaper thumb="assets/pics/wallpapers/wp6_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp6_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp6_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp6_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp6_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+		<wallpaper thumb="assets/pics/wallpapers/wp7_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp7_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp7_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp7_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp7_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+		<wallpaper thumb="assets/pics/wallpapers/wp8_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp8_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp8_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp8_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp8_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+</wallpaper_list>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvos videoarkiv]]></name>
+		<copy><![CDATA[Känner du nostalgi för din Volvo? Besök vårt videoarkiv online där du kan se TV- och filmreklam samt vårt utbud av historiska filmklipp.
+
+Alla videoklipp har valts ut från Volvos arkiv i Göteborg.
+]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvos videoarkiv]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/enlinks.php?linkno=21">
+		<name><![CDATA[Volvos videoarkiv]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Andra Volvorelaterade länkar]]></name>
+		<copy><![CDATA[Över hela världen engagerar sig ett växande antal entusiaster, klubbar och företag i att låta klassiska Volvobilar rulla vidare på vägarna. Vi tar med glädje med länkar till våra samarbetspartners och vänner som både bidrar till, och är en del av, den växande gemenskapen kring Volvos bilar.
+
+Observera att vi inte är ansvariga för någon information som finns på dessa webbsidor. Vi kan inte heller ta på oss något ansvar för olyckor eller problem som uppstår genom användning av dem. Länkar som tagits med i det här avsnittet innebär ingen form av godkännande eller överenskommelse mellan respektive part och Volvo Personvagnar eller något av dess dotterföretag.
+]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Technical Information Shop ]]></name>
+		<copy><![CDATA[Besök Technical Information Shop om du vill köpa ägarhandböcker, elscheman eller några andra tryckta produkter.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/enlinks.php?linkno=17">
+		<name><![CDATA[Technical Information Shop ]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Övriga länkar]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/enlinks.php?linkno=22">
+		<name><![CDATA[Övriga länkar]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Original Technical Publications
+]]></name>
+		<copy><![CDATA[Över hela världen engagerar sig ett växande antal entusiaster, klubbar och företag i att låta klassiska Volvobilar rulla vidare på vägarna. Vi tar med glädje med länkar till våra samarbetspartner och vänner som både bidrar till och är en del av den växande Volvogemenskapen.
+
+Här finner du en unik, omfattande, informationsrik produkt. I Original Technical Publications kan du finna allt du behöver veta om underhåll och vård av din Volvo. Du kan faktiskt hitta allt som Volvo publicerat om din bil här.
+]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Original Technical Publications]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="webpage" location="http://otpubs.com/">
+		<name><![CDATA[Original Technical Publications]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Vanliga frågor och svar]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/enlinks.php?linkno=23">
+		<name><![CDATA[Vanliga frågor och svar]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Kontakt]]></name>
+		<copy><![CDATA[Behöver du ytterligare stöd eller information kontaktar du]]></copy>
+<links>
+	<link kind="email" location="info@otpubs.com">
+		<name><![CDATA[Information]]></name>
+	</link>
+	<link kind="email" location="sales@otpubs.com">
+		<name><![CDATA[Försäljning]]></name>
+	</link>
+	<link kind="email" location="support@otpubs.com">
+		<name><![CDATA[Support]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="Q" >
+		<name><![CDATA[Avsluta]]></name>
+		<copy><![CDATA[]]></copy>
+		<quit_button><![CDATA[Avsluta]]></quit_button>
+	</section>
+
+</section_group>
+</BrandInterface>

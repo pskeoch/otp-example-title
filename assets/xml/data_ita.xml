@@ -1,0 +1,727 @@
+﻿<?xml version="1.0" ?>
+<BrandInterface language="Italiano">
+<title>
+	<row1><![CDATA[Volvo]]></row1>
+	<row2><![CDATA[1800, 1800S, 1800E & ES]]></row2>
+	<row3><![CDATA[1961 to 1973]]></row3>
+	<row4><![CDATA[Original Technical Publications]]></row4>
+</title>
+<main_nav>
+	<nav><![CDATA[Introduzione
+]]></nav>
+	<nav><![CDATA[Pubblicazioni tecniche Volvo]]></nav>
+	<nav><![CDATA[Volvo Car Corporation
+]]></nav>
+	<nav><![CDATA[Auto d'epoca Volvo Car]]></nav>
+	<nav><![CDATA[Club Volvo 
+]]></nav>
+	<nav><![CDATA[Gallerie fotografiche
+]]></nav>
+	<nav><![CDATA[Sfondi per il desktop
+]]></nav>
+	<nav><![CDATA[Archivio video Volvo]]></nav>
+	<nav><![CDATA[Altri collegamenti pertinenti a Volvo ]]></nav>
+	<nav><![CDATA[Original Technical Publications
+]]></nav>
+	<nav><![CDATA[Esci]]></nav>
+</main_nav>
+<gallery>
+	<title><![CDATA[Galleria]]></title>
+	<note><![CDATA[Seleziona una miniatura per cambiare l'immagine di sfondo.]]></note>
+</gallery>
+<back_button>
+	<label><![CDATA[Ritorno]]></label>
+</back_button>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Introduzione
+]]></name>
+		<copy><![CDATA[Benvenuti alla risorsa rappresentata dalle Pubblicazioni Tecniche Originali Volvo. Riprodotte con cura dal nostro ampio archivio storico di Gothenburg, siamo lieti di darvi accesso alle pubblicazioni originali Volvo, necessarie per utilizzare e mantenere in buone condizioni la vostra automobile classica Volvo, compresi i cataloghi dei ricambi e i manuali di servizio.
+
+Inoltre, in questo sito, troverete informazioni e collegamenti a Volvo Car Corporation, Volvo Car auto d'epoca, al Museo Volvo ed alle Pubblicazioni Tecniche Originali. Scoprite di più sulla storia di Volvo Car, sui modelli Volvo ed ottenete informazioni sulle novità relative alle auto d'epoca. Da qui potrete inoltre reperire i Ricambi Classic originali ed i collegamenti ai Club Volvo. 
+
+Durante la vostra visita, date un'occhiata alle più recenti gallerie fotografiche, ai video ed agli archivi multimediali - potete anche scaricare uno sfondo per desktop Volvo classic per personalizzare il vostro computer.
+
+Utilizzare Alt + Tab per tornare al menù principale dal lettore sicuro in qualsiasi momento.
+]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[INFORMAZIONI IMPORTANTI SULL'USO DEL PRODOTTO]]></name>
+		<copy><![CDATA[Per proteggere i diritti dell'Archivio Volvo, tutto il materiale delle Pubblicazioni Originali Volvo viene presentato utilizzando un formato protetto (PDC). Per aprire i file è necessario installare il software di lettura dei file PDC sul proprio computer ed attivare la licenza di prodotto. I documenti non saranno accessibili finchè non vengono eseguite queste azioni:
+
+1) Una volta che il visualizzatore è installato, cliccare il collegamento qui sotto per attivare questo prodotto. L'applet di attivazione appare quando si clicca su questo collegamento. E' necessaria una connessione internet per completare il processo.
+
+2) Inserire il proprio nome e un indirizzo email valido unitamente alla chiave di licenza, che si trova sulla confezione del prodotto, successivamente cliccare su 'Attiva'.
+    Poco dopo si riceverà una conferma ed un collegamento per salvare il proprio file di licenza. Si riceverà inoltre un'e-mail all'indirizzo che è stato indicato, con il proprio file di licenza allegato nel caso in cui dovessero verificarsi dei problemi nel salvataggio della licenza dall'applet.
+
+3) Salvare il file di licenza in una cartella idonea sul proprio hard disk, successivamente cliccare su 'Registra licenza' per completare il processo. Si dovrebbe ricevere una conferma della registrazione, dopo la quale si avrà libero accesso ai documenti.
+]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/otpactivate/runactivate.php?pub=tp51949">
+		<name><![CDATA[Attiva ora ]]></name>
+	</link>
+	<link kind="webpage" location="http://www.otpubs.com/otpactivate/instruct-withdisc.htm">
+		<name><![CDATA[Installazione di Aiuto e Ricerca guasti]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Pubblicazioni tecniche Volvo]]></name>
+		<copy><![CDATA[Le pubblicazioni tecniche memorizzate in questa sezione provengono dall'Archivio Ufficiale Volvo di Gothenburg. Dove potrebbe essere più facile e sicuro reperire le informazioni migliori, più ampie e più precise circa la vostra Volvo classic?
+
+Ricambi Volvo e Pubblicazioni di Servizio sono stati creati per assistere le officine Volvo nel fornire la migliore assistenza possibile ai proprietari Volvo. Le pubblicazioni forniscono ai proprietari Volvo classic tutte le informazioni necessarie per mantenere i loro veicoli nelle condizioni migliori.
+]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Cataloghi di parti di ricambio]]></name>
+		<copy><![CDATA[Pubblicazioni Ricambi - Le Pubblicazioni Ricambi che si trovano qui sono state compilate e riprodotte dai volumi originali contenuti nell'Archivio Volvo di Goteborg. La maggior parte delle informazioni è in svedese e inglese, tuttavia le informazioni sui ricambi sono state incluse in altre lingue quando disponibili. Laddove ciò non sia stato possibile, cerchiamo di fornire versioni in inglese dei documenti con traduzioni collegate alle pagine appropriate. I libri successivi comprendono illustrazioni numerate - che guidano il lettore all'illustrazione corretta ed al numero di catalogo.]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Catalogo di pezzi di ricambio - 1800 e 1800S (B18) - 1961 al 1968]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212121-eng/212121-eng-01.pdc">
+		<name><![CDATA[Introduzione]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212121-eng/212121-eng-02.pdc">
+		<name><![CDATA[Motore B18]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212121-eng/212121-eng-03.pdc">
+		<name><![CDATA[Sistema di raffreddamento]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212121-eng/212121-eng-04.pdc">
+		<name><![CDATA[Sistemi di carburante e di gas di scarico]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212121-eng/212121-eng-05.pdc">
+		<name><![CDATA[Controlli del motore]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212121-eng/212121-eng-06.pdc">
+		<name><![CDATA[Sistema elettrico, instrumenti]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212121-eng/212121-eng-07.pdc">
+		<name><![CDATA[Trasmissione]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212121-eng/212121-eng-08.pdc">
+		<name><![CDATA[Freni]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212121-eng/212121-eng-09.pdc">
+		<name><![CDATA[Asse anteriore e sterzo]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212121-eng/212121-eng-10.pdc">
+		<name><![CDATA[Carrozzeria]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212121-eng/212121-eng-11.pdc">
+		<name><![CDATA[Attrezzature varie]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212121-eng/212121-eng-12.pdc">
+		<name><![CDATA[Attrezzature di Bosch]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212121-eng/212121-eng-13.pdc">
+		<name><![CDATA[Kit di riparazione]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212121-eng/212121-eng-14.pdc">
+		<name><![CDATA[Indice alfabetico]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212121-eng/212121-eng-15.pdc">
+		<name><![CDATA[Indice numerico]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Catalogo di pezzi di ricambio - 1800S, 1800E e 1800ES (B20) - 1968 al 1971]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/1800partsii-eng/1800partsii-eng-01.pdc">
+		<name><![CDATA[Introduzione]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/1800partsii-eng/1800partsii-eng-02.pdc">
+		<name><![CDATA[Motore B20]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/1800partsii-eng/1800partsii-eng-03.pdc">
+		<name><![CDATA[Sistema di raffreddamento]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/1800partsii-eng/1800partsii-eng-04.pdc">
+		<name><![CDATA[Sistemi di carburante e di gas di scarico]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/1800partsii-eng/1800partsii-eng-05.pdc">
+		<name><![CDATA[Controlli del motore]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/1800partsii-eng/1800partsii-eng-06.pdc">
+		<name><![CDATA[Sistema elettrico, instrumenti]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/1800partsii-eng/1800partsii-eng-07.pdc">
+		<name><![CDATA[Trasmissione]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/1800partsii-eng/1800partsii-eng-08.pdc">
+		<name><![CDATA[Freni]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/1800partsii-eng/1800partsii-eng-09.pdc">
+		<name><![CDATA[Asse anteriore e sterzo]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/1800partsii-eng/1800partsii-eng-10.pdc">
+		<name><![CDATA[Telaio e di primavera]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/1800partsii-eng/1800partsii-eng-11.pdc">
+		<name><![CDATA[Carrozzeria]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/1800partsii-eng/1800partsii-eng-12.pdc">
+		<name><![CDATA[Attrezzature varie]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/1800partsii-eng/1800partsii-eng-13.pdc">
+		<name><![CDATA[Kit di riparazione]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/1800partsii-eng/1800partsii-eng-14.pdc">
+		<name><![CDATA[Indice numerico]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Catalogo di pezzi di ricambio - 1800S, 1800E e 1800ES (B20) - 1968 al 1973]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212123-eng/212123-eng-01.pdc">
+		<name><![CDATA[Introduzione]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212123-eng/212123-eng-02.pdc">
+		<name><![CDATA[Motore B20]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212123-eng/212123-eng-03.pdc">
+		<name><![CDATA[Sistema di raffreddamento]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212123-eng/212123-eng-04.pdc">
+		<name><![CDATA[Sistemi di carburante e di gas di scarico]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212123-eng/212123-eng-05.pdc">
+		<name><![CDATA[Controlli del motore]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212123-eng/212123-eng-06.pdc">
+		<name><![CDATA[Sistema elettrico, instrumenti]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212123-eng/212123-eng-07.pdc">
+		<name><![CDATA[Trasmissione]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212123-eng/212123-eng-08.pdc">
+		<name><![CDATA[Freni]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212123-eng/212123-eng-09.pdc">
+		<name><![CDATA[Asse anteriore e sterzo]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212123-eng/212123-eng-10.pdc">
+		<name><![CDATA[Telaio e di primavera]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212123-eng/212123-eng-11.pdc">
+		<name><![CDATA[Carrozzeria]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212123-eng/212123-eng-12.pdc">
+		<name><![CDATA[Attrezzature varie]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212123-eng/212123-eng-13.pdc">
+		<name><![CDATA[Kit di riparazione]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/parts/212123-eng/212123-eng-14.pdc">
+		<name><![CDATA[Indice numerico]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Manuali di officina]]></name>
+		<copy><![CDATA[Pubblicazioni Assistenza - Le Pubblicazioni Assistenza che si trovano qui sono state compilate e riprodotte dai volumi originali contenuti nell'Archivio Volvo di Goteborg. Ciascuna pubblicazione comprende un'ampia documentazione tecnica in più lingue utilizzata dalle officine Volvo per i modelli che erano attuali o ancora in assistenza in quel momento.]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Singoli manuali di officina - 1800, 1800S, 1800E, 1800ES]]></name>
+		<copy><![CDATA[]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Generalità ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/0/TP-10596-1.pdc">
+		<name><![CDATA[Caratteristiche 1800, 1800 S (TP-10596-1 - 9/1970) ]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Lubrificazioni e servizi ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/1/TP-10420-1.pdc">
+		<name><![CDATA[Lubrificazioni P 120, P 1800 (TP-10420-1 - 1/1967) ]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/1/TP-10769-1.pdc">
+		<name><![CDATA[Lubrificazioni 140, 164, 1800 (TP-10769-1 - 11/1972) ]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Motore]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/2/TP-10310-1.pdc">
+		<name><![CDATA[Motore B 18 B, B 18 D (TP-10310-1 - 3/1967) ]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/2/TP-10543-1.pdc">
+		<name><![CDATA[Motore B 20 A - B 20 B (TP-10543-1 -  9/1969)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/2/TP-10907-1.pdc">
+		<name><![CDATA[Motore B 20, B 30 (TP-10907-1 -  10/1974) ]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/2/TP-10701-1.pdc">
+		<name><![CDATA[Impianto Iniezione Benzina Motore B 20 E (TP-10701-1 - 5/1971)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/2/TP-10897-1.pdc">
+		<name><![CDATA[Impianto Iniezione Benzina CI B 20 E, F (TP-10897-1 - 4/1974)]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Sistema elettrico ]]></name>
+		<copy><![CDATA[]]></copy>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Trasmissione]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/4/TP-10394-2.pdc">
+		<name><![CDATA[Frizione 12 0, 140, 1800 (TP-10394-2 - 11/1969) ]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/4/TP-10804-1.pdc">
+		<name><![CDATA[Cambio Di Velocità ' M 400 164, 1800 E (TP-10804-1 - 10/1973)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/4/TP-10399-1.pdc">
+		<name><![CDATA[Marcia (Overdrive) P 120, P 1800 (TP-10399-1 -7/1967)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/4/TP-10490-1.pdc">
+		<name><![CDATA[Overdrive Tipo J P (TP-10490-1 - 11/1968) ]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/4/TP-12179-1.pdc">
+		<name><![CDATA[Sovramolti Plicatore Tipo J (TP-12179-1 - 5/1978) ]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/4/TP-10375-1.pdc">
+		<name><![CDATA[Albero Trasmissione P 120 140 Serie, P 1800 (TP-10375-1 - 9/1967)]]></name>
+	</link>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/4/TP-10396-2.pdc">
+		<name><![CDATA[Ponte Posteriore (Spicer) 120, 140, 164, 1800 (TP-10396-2 - 4/1971)]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Freni]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/5/TP-10311-1.pdc">
+		<name><![CDATA[Freni (Freni - Disco) P 120, P 1800 (TP-10311-1 - 2/1967) ]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Sospensioni e sterzo ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/6/TP-10331-1.pdc">
+		<name><![CDATA[Sospensione Anteriore E Sterzo P 120, P 1800 (TP-10331-1 - 2/1967) ]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Molle, ammortizzatori, Ruote]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="file" location="https://otpubs-volvo.s3.us-east-2.amazonaws.com/TP-51949/assets/publications/ita/service/individual/7/TP-10332-1.pdc">
+		<name><![CDATA[Molle Ammortizzatori Ruote P 120, P 1800 (TP-10332-1 - 2/1967)]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Carrozzeria ed abitacolo ]]></name>
+		<copy><![CDATA[]]></copy>
+	</section>
+
+</section_group>
+	</section>
+
+</section_group>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvo Car Corporation
+]]></name>
+		<copy><![CDATA[Trovate le ultime informazioni sui modelli attuali Volvo, trovate il concessionario a voi più vicino o entrate a far parte della comunità Volvo presso il sito web di Volvo Car. ]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvo Car Corporation]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/itlinks.php?linkno=1">
+		<name><![CDATA[Volvo Car Corporation]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvo Cars Community]]></name>
+		<copy><![CDATA[Partecipate alla Volvo Cars Community.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/itlinks.php?linkno=2">
+		<name><![CDATA[Volvo Cars Community]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[DRIVe - Programma ambientale]]></name>
+		<copy><![CDATA[Le automobili di oggi devono soddisfare rigidi requisiti ambientali. Partecipate al loro sviluppo sulla home page DRIVe.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/itlinks.php?linkno=3">
+		<name><![CDATA[DRIVe - Programma ambientale]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Accessori]]></name>
+		<copy><![CDATA[Accessoriate la vostra Volvo dandole un tocco personale. Offriamo un'ampia gamma di accessori, dispositivi e servizi per trarre il meglio dalla vostra autovettura.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/itlinks.php?linkno=4">
+		<name><![CDATA[Accessori]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvo Merchandise]]></name>
+		<copy><![CDATA[]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Collezione globale]]></name>
+		<copy><![CDATA[Ammirate la gamma di accessori esclusivi.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/itlinks.php?linkno=5">
+		<name><![CDATA[Collezione globale]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvo Merchandise Nord America]]></name>
+		<copy><![CDATA[Ammirate la gamma di accessori esclusivi]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/itlinks.php?linkno=6">
+		<name><![CDATA[Volvo Merchandise Nord America]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Localizzatore delle concessionarie]]></name>
+		<copy><![CDATA[Trovate una concessionaria Volvo nella vostra zona.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/itlinks.php?linkno=7">
+		<name><![CDATA[Localizzatore delle concessionarie]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Visitate Volvo]]></name>
+		<copy><![CDATA[Benvenuti nel Volvo Cars Visitor Centre, nel cuore dello stabilimento di Torslanda a Goteburg, in Svezia.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/itlinks.php?linkno=8">
+		<name><![CDATA[Visitate Volvo]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Attuali modelli Volvo]]></name>
+		<copy><![CDATA[Guardate da vicino l'attuale gamma dei modelli Volvo.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/itlinks.php?linkno=9">
+		<name><![CDATA[Attuali modelli Volvo]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvo su Facebook ]]></name>
+		<copy><![CDATA[Unitevi a Volvo su Facebook]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/itlinks.php?linkno=10">
+		<name><![CDATA[Volvo su Facebook ]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Volvo su Youtube ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/itlinks.php?linkno=11">
+		<name><![CDATA[Volvo su Youtube ]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Auto d'epoca Volvo Car]]></name>
+		<copy><![CDATA[Ad ogni giro della ruota dell'odometro, la storia viene scritta in ogni singola automobile Volvo - e ciascuna ha una storia che vale la pena di conservare. A partire dal 1927 Volvo ha creato la propria storia automobilistica e con il sito web Auto d'epoca Volvo Car intendiamo aiutare gli appassionati a continuare a creare la storia per lungo tempo in futuro.]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Auto d'epoca Volvo Car]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/enlinks.php?linkno=12">
+		<name><![CDATA[Auto d'epoca Volvo Car]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Museo Volvo]]></name>
+		<copy><![CDATA[Il Museo Volvo vi invita a visitare le creazioni e i successi di Volvo, dalla fine degli anni '20 a oggi, in un unica esposizione a Goteburg, in Svezia. Scoprite come i valori di sempre siano stati perfezionati per rendere Volvo uno dei marchi più famosi e rispettati al mondo.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/enlinks.php?linkno=13">
+		<name><![CDATA[Museo Volvo]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Modelli Volvo]]></name>
+		<copy><![CDATA[Qui vi sono foto e dati di tutti i modelli Volvo dal 1927 ad oggi. ]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/enlinks.php?linkno=14">
+		<name><![CDATA[Modelli Volvo]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Novità e informazioni Volvo Heritage]]></name>
+		<copy><![CDATA[Visitate la sezione Novità e informazioni della pagine Volvo Heritage per rimanere sempre aggiornati sulle ricorrenze delle automobili Volvo, sui nuovi articoli di interesse generale e sulle date importanti da ricordare.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/enlinks.php?linkno=15">
+		<name><![CDATA[Novità e informazioni Volvo Heritage]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Club Volvo 
+]]></name>
+		<copy><![CDATA[Vuoi trovare un club locale Volvo? Prendiamo accedere direttamente ai club Volvo e directory società del Volvo Cars pagine del Patrimonio sul sito web di Volvo Cars.]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Club Volvo ]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/enlinks.php?linkno=16">
+		<name><![CDATA[Club Volvo ]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="E" >
+		<name><![CDATA[Gallerie fotografiche
+]]></name>
+		<copy><![CDATA[This field is ignored when using the photo gallery pane type.]]></copy><external_app file="assets/apps/slideShow.swf"></external_app>
+	</section>
+
+	<section contentPaneType="W" >
+		<name><![CDATA[Sfondi per il desktop
+]]></name>
+		<copy><![CDATA[Personalizzate il vostro PC con gli sfondi per desktop Volvo Cars Heritage. Non è necessario effettuare alcuna operazione di Incolla, è sufficiente effettuare la selezione e lasciarci il compito della decorazione.
+
+Foto di alta qualità sono disponibili presso i nostri amici di volvoprints.com
+]]></copy>
+<wallpaper_list>
+		<wallpaper thumb="assets/pics/wallpapers/wp1_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp1_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp1_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp1_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp1_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+		<wallpaper thumb="assets/pics/wallpapers/wp2_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp2_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp2_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp2_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp2_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+		<wallpaper thumb="assets/pics/wallpapers/wp3_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp3_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp3_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp3_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp3_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+		<wallpaper thumb="assets/pics/wallpapers/wp4_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp4_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp4_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp4_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp4_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+		<wallpaper thumb="assets/pics/wallpapers/wp5_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp5_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp5_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp5_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp5_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+		<wallpaper thumb="assets/pics/wallpapers/wp6_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp6_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp6_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp6_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp6_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+		<wallpaper thumb="assets/pics/wallpapers/wp7_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp7_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp7_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp7_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp7_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+		<wallpaper thumb="assets/pics/wallpapers/wp8_thumb.jpg">
+			<screensize_btn file="assets/pics/wallpapers/wp8_800x600.jpg"><![CDATA[800 x 600]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp8_1024x768.jpg"><![CDATA[1024 x 768]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp8_1280x1024.jpg"><![CDATA[1280 x 1024]]></screensize_btn>
+			<screensize_btn file="assets/pics/wallpapers/wp8_1680x1050.jpg"><![CDATA[1680 x 1050]]></screensize_btn>
+	</wallpaper>
+</wallpaper_list>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Archivio video Volvo]]></name>
+		<copy><![CDATA[Sentite nostalgia della vostra Volvo? Visitate il nostro archivio video online per trovare pubblicità TV e cinematografiche e la nostra gamma di filmati Volvo storici.
+
+Tutti i video sono stati selezionati dall'archivio Volvo di Gothenburg.
+]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Archivio video Volvo]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/enlinks.php?linkno=21">
+		<name><![CDATA[Archivio video Volvo]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Altri collegamenti pertinenti a Volvo ]]></name>
+		<copy><![CDATA[In tutto il mondo, sempre un maggior numero di entusiasti, club e aziende contribuiscono alla circolazione di autovetture classiche Volvo su strada. Siamo lieti di includere collegamenti a molti dei nostri partner e amici che contribuiscono e partecipano alla crescita della comunità Volvo.
+
+Si ricorda che non siamo responsabili di informazioni reperite su siti web di terzi e non accettiamo responsabilità per eventuali incidenti o problemi derivanti dal loro uso. I collegamenti trovati in questa sezione non implicano alcuna approvazione o accordo con i terzi in questione e Volvo Car Corporation o qualsiasi sua controllata.
+]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Technical Information Shop]]></name>
+		<copy><![CDATA[Visitate il Technical Information Shop per acquistare manuali d'uso e manutenzione, schemi elettrici e altri prodotti stampati.]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/enlinks.php?linkno=17">
+		<name><![CDATA[Technical Information Shop ]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Altri collegamenti]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/enlinks.php?linkno=22">
+		<name><![CDATA[Altri collegamenti]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Original Technical Publications
+]]></name>
+		<copy><![CDATA[Le Pubblicazioni Tecniche Originali sono fiere di essere state selezionate da Auto d'epoca Volvo Car per lavorare fianco a fianco con lo staff dell'Archivio Volvo nella digitalizzazione, riproduzione e presentazione della grande ricchezza di documenti storici a vantaggio dei clienti Volvo.
+
+Il nostro scopo è di fornire ai proprietari Volvo un'assistenza all'altezza della qualità e dell'etica Volvo.
+
+Qui troverete una risorsa tecnica unica, ampia e ricca di informazioni. Le Pubblicazioni Tecniche Originali vi aiuteranno a scoprire tutto ciò che è necessario sapere su come curare ed effettuare la manutenzione sulla vostra Volvo classic. Infatti, qualsiasi cosa Volvo abbia pubblicato circa la vostra automobile, la troverete riprodotta qui.
+]]></copy>
+<section_group>
+	<section contentPaneType="A" >
+		<name><![CDATA[Original Technical Publications]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="webpage" location="http://otpubs.com/">
+		<name><![CDATA[Original Technical Publications]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Domande frequenti]]></name>
+		<copy><![CDATA[]]></copy>
+<links>
+	<link kind="webpage" location="http://www.otpubs.com/webfor/enlinks.php?linkno=23">
+		<name><![CDATA[Domande frequenti]]></name>
+	</link>
+</links>
+	</section>
+
+	<section contentPaneType="A" >
+		<name><![CDATA[Contatto]]></name>
+		<copy><![CDATA[Per maggiori informazioni o assistenza, contattare.]]></copy>
+<links>
+	<link kind="email" location="info@otpubs.com">
+		<name><![CDATA[Informazion]]></name>
+	</link>
+	<link kind="email" location="sales@otpubs.com">
+		<name><![CDATA[Vendite]]></name>
+	</link>
+	<link kind="email" location="support@otpubs.com">
+		<name><![CDATA[Assistenza]]></name>
+	</link>
+</links>
+	</section>
+
+</section_group>
+	</section>
+
+	<section contentPaneType="Q" >
+		<name><![CDATA[Esci]]></name>
+		<copy><![CDATA[]]></copy>
+		<quit_button><![CDATA[Esci]]></quit_button>
+	</section>
+
+</section_group>
+</BrandInterface>

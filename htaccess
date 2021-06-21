@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Volvo"
+AuthUserFile "/home/otpubsco/.htpasswds/public_html/otpubs/Automobile/Volvo/TP-10450/passwd"
+require valid-user

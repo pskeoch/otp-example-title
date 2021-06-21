@@ -1,0 +1,29 @@
+p {
+    color: #FFFFFF;
+    font-family: "Arial_embed";
+    font-size:12px;
+}
+b {
+    color: #FFFFFF;
+    font-family: "Arial_embed";
+    font-weight: bold;
+    font-size: 12px;
+}
+
+a:link {
+    color: #FFFFFF;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.headline {
+    color: #FFFFFF;
+    font-family: Arial_embed, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    display: block;
+}
